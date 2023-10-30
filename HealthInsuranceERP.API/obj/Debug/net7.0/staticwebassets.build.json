@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Zz/azZ4TKiD/5f8I1ujLGJc64JqkHrMXavQ6+lw6JbE=",
+  "Source": "HealthInsuranceERP.API",
+  "BasePath": "_content/HealthInsuranceERP.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

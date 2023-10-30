@@ -1,0 +1,17 @@
+C:\Users\lezekie\Documents\LafargeLogTracker.API\LafargeLogTracker.Core\bin\Debug\net6.0\LafargeLogTracker.Core.deps.json
+C:\Users\lezekie\Documents\LafargeLogTracker.API\LafargeLogTracker.Core\bin\Debug\net6.0\LafargeLogTracker.Core.runtimeconfig.json
+C:\Users\lezekie\Documents\LafargeLogTracker.API\LafargeLogTracker.Core\bin\Debug\net6.0\LafargeLogTracker.Core.dll
+C:\Users\lezekie\Documents\LafargeLogTracker.API\LafargeLogTracker.Core\bin\Debug\net6.0\LafargeLogTracker.Core.pdb
+C:\Users\lezekie\Documents\LafargeLogTracker.API\LafargeLogTracker.Core\bin\Debug\net6.0\LafargeLogTracker.Data.dll
+C:\Users\lezekie\Documents\LafargeLogTracker.API\LafargeLogTracker.Core\bin\Debug\net6.0\LafargeLogTracker.Data.pdb
+C:\Users\lezekie\Documents\LafargeLogTracker.API\LafargeLogTracker.Core\obj\Debug\net6.0\LafargeLogTracker.Core.csproj.AssemblyReference.cache
+C:\Users\lezekie\Documents\LafargeLogTracker.API\LafargeLogTracker.Core\obj\Debug\net6.0\LafargeLogTracker.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lezekie\Documents\LafargeLogTracker.API\LafargeLogTracker.Core\obj\Debug\net6.0\LafargeLogTracker.Core.AssemblyInfoInputs.cache
+C:\Users\lezekie\Documents\LafargeLogTracker.API\LafargeLogTracker.Core\obj\Debug\net6.0\LafargeLogTracker.Core.AssemblyInfo.cs
+C:\Users\lezekie\Documents\LafargeLogTracker.API\LafargeLogTracker.Core\obj\Debug\net6.0\LafargeLogTracker.Core.csproj.CoreCompileInputs.cache
+C:\Users\lezekie\Documents\LafargeLogTracker.API\LafargeLogTracker.Core\obj\Debug\net6.0\LafargeLogTracker.Core.csproj.CopyComplete
+C:\Users\lezekie\Documents\LafargeLogTracker.API\LafargeLogTracker.Core\obj\Debug\net6.0\LafargeLogTracker.Core.dll
+C:\Users\lezekie\Documents\LafargeLogTracker.API\LafargeLogTracker.Core\obj\Debug\net6.0\refint\LafargeLogTracker.Core.dll
+C:\Users\lezekie\Documents\LafargeLogTracker.API\LafargeLogTracker.Core\obj\Debug\net6.0\LafargeLogTracker.Core.pdb
+C:\Users\lezekie\Documents\LafargeLogTracker.API\LafargeLogTracker.Core\obj\Debug\net6.0\LafargeLogTracker.Core.genruntimeconfig.cache
+C:\Users\lezekie\Documents\LafargeLogTracker.API\LafargeLogTracker.Core\obj\Debug\net6.0\ref\LafargeLogTracker.Core.dll

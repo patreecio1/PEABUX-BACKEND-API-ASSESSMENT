@@ -1,0 +1,14 @@
+﻿
+using HealthInsuranceERP.Core.Dtos;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace HealthInsuranceERP.Core.Interfaces.Services
+{
+    public interface IJWTService
+    {
+        string GenerateToken(AppUserDto users);
+    }
+}

@@ -1,0 +1,14 @@
+C:\Users\lezekie\Documents\HealthInsuranceERP.API\HealthInsuranceERP.Core\bin\Debug\net7.0\HealthInsuranceERP.Core.deps.json
+C:\Users\lezekie\Documents\HealthInsuranceERP.API\HealthInsuranceERP.Core\bin\Debug\net7.0\HealthInsuranceERP.Core.runtimeconfig.json
+C:\Users\lezekie\Documents\HealthInsuranceERP.API\HealthInsuranceERP.Core\bin\Debug\net7.0\HealthInsuranceERP.Core.dll
+C:\Users\lezekie\Documents\HealthInsuranceERP.API\HealthInsuranceERP.Core\bin\Debug\net7.0\HealthInsuranceERP.Core.pdb
+C:\Users\lezekie\Documents\HealthInsuranceERP.API\HealthInsuranceERP.Core\obj\Debug\net7.0\HealthInsuranceERP.Core.csproj.AssemblyReference.cache
+C:\Users\lezekie\Documents\HealthInsuranceERP.API\HealthInsuranceERP.Core\obj\Debug\net7.0\HealthInsuranceERP.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lezekie\Documents\HealthInsuranceERP.API\HealthInsuranceERP.Core\obj\Debug\net7.0\HealthInsuranceERP.Core.AssemblyInfoInputs.cache
+C:\Users\lezekie\Documents\HealthInsuranceERP.API\HealthInsuranceERP.Core\obj\Debug\net7.0\HealthInsuranceERP.Core.AssemblyInfo.cs
+C:\Users\lezekie\Documents\HealthInsuranceERP.API\HealthInsuranceERP.Core\obj\Debug\net7.0\HealthInsuranceERP.Core.csproj.CoreCompileInputs.cache
+C:\Users\lezekie\Documents\HealthInsuranceERP.API\HealthInsuranceERP.Core\obj\Debug\net7.0\HealthInsuranceERP.Core.dll
+C:\Users\lezekie\Documents\HealthInsuranceERP.API\HealthInsuranceERP.Core\obj\Debug\net7.0\refint\HealthInsuranceERP.Core.dll
+C:\Users\lezekie\Documents\HealthInsuranceERP.API\HealthInsuranceERP.Core\obj\Debug\net7.0\HealthInsuranceERP.Core.pdb
+C:\Users\lezekie\Documents\HealthInsuranceERP.API\HealthInsuranceERP.Core\obj\Debug\net7.0\HealthInsuranceERP.Core.genruntimeconfig.cache
+C:\Users\lezekie\Documents\HealthInsuranceERP.API\HealthInsuranceERP.Core\obj\Debug\net7.0\ref\HealthInsuranceERP.Core.dll
