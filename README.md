@@ -9,4 +9,4 @@ Once restored, change the Connection string values in the appsettings.json file 
 
 # Run Application
 
-* Run the HealthInsuranceERP.Api project setting it as atartup project
+* Run the HealthInsuranceERP.Api project setting it as startup project
